@@ -1,0 +1,4 @@
+# x-o oyunu
+-Dosyları indirdikten sonra bir klasöre kopyalayıp, Visual Studio'da o klasörü açın.
+-Çözüm gezgininde "x-o ouynu.sln" dosyasını çift tıklayıp açın.
+-Çözüm gezgininde "Kaynak Dosyalar" kalsörünün altında "x-o oyunu.cpp" dosyasını çift tıklayıp açtıktan sonra uygulamayı başlatabilirsiniz.
